@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "34950385544",
+    "project_id": "nirvana-34bed",
+    "storage_bucket": "nirvana-34bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34950385544:android:72ccb6da1fdaf8c0b0343d",
+        "android_client_info": {
+          "package_name": "com.example.nirvana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34950385544-vd3ufirl4eq7725956v4eq87ckh8541u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhSaOTkKmNn5GB8kcYPLTk7Bwf6Theyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34950385544-vd3ufirl4eq7725956v4eq87ckh8541u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34950385544:android:54e7a3454f2b5b9ab0343d",
+        "android_client_info": {
+          "package_name": "com.example.nirvana_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34950385544-vd3ufirl4eq7725956v4eq87ckh8541u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhSaOTkKmNn5GB8kcYPLTk7Bwf6Theyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34950385544-vd3ufirl4eq7725956v4eq87ckh8541u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
